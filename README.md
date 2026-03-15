@@ -15,7 +15,7 @@ NOOLU is a modern, responsive NFT-inspired landing page and web platform built w
 ## Demo
 
 A live demo of NOOLU can be accessed at:  
-[https://your-demo-link.com](https://your-demo-link.com)
+https://noolu.vercel.app/
 
 ## Features
 
@@ -40,5 +40,5 @@ A live demo of NOOLU can be accessed at:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/noolu.git
+git clone https://github.com/emmy3oy/noolu.git
 cd noolu
