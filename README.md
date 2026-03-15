@@ -1,16 +1,44 @@
-# React + Vite
+# NOOLU
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NOOLU is a modern, responsive NFT-inspired landing page and web platform built with **React** and designed for collectors, artists, and enthusiasts. The project focuses on clean UI, smooth animations, and engaging interactions for a seamless user experience.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [Demo](#demo)  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Contributing](#contributing)  
+- [License](#license)  
 
-## React Compiler
+## Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+A live demo of NOOLU can be accessed at:  
+[https://your-demo-link.com](https://your-demo-link.com)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fully responsive landing page for web and mobile
+- Animated hero section showcasing featured NFTs
+- Team section with hover effects and social icons
+- Modern navigation bar with active link indicators
+- Footer with company, legal, and location links
+- Smooth animations using **Framer Motion**
+- Built with **React.js** for component-based architecture
+
+## Tech Stack
+
+- **React.js** – Component-based UI library  
+- **Framer Motion** – Animation library for smooth transitions  
+- **React-Bootstrap** – UI components and layout  
+- **Lucide React** – Icon library for social and interface icons  
+- **CSS / Flexbox & Grid** – Responsive styling  
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/noolu.git
+cd noolu
