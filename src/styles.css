@@ -1,0 +1,125 @@
+body{
+background:#0c0006;
+color:white;
+font-family:Inter;
+}
+
+/* NAV */
+
+.nav-dark{
+background:transparent;
+}
+
+.logo{
+font-weight:700;
+letter-spacing:2px;
+}
+
+.primary-btn{
+background:linear-gradient(90deg,#ff007a,#a100ff);
+border:none;
+padding:8px 18px;
+border-radius:6px;
+}
+
+/* HERO */
+
+.hero{
+padding:80px 0;
+background:linear-gradient(180deg,#3a001b,#0c0006);
+}
+
+.hero-title{
+font-size:42px;
+font-weight:700;
+margin-bottom:40px;
+}
+
+.hero-cards{
+display:flex;
+justify-content:center;
+align-items:center;
+gap:20px;
+}
+
+.hero-card{
+width:140px;
+border-radius:10px;
+box-shadow:0 10px 40px rgba(0,0,0,0.6);
+}
+
+.card-left{
+transform:rotate(-15deg);
+}
+
+.card-right{
+transform:rotate(15deg);
+}
+
+/* STATS */
+
+.stats{
+padding:40px 0;
+}
+
+.stats-grid h3{
+color:#ff2ea6;
+font-weight:700;
+}
+
+/* NFT CARDS */
+
+.art-section{
+padding:60px 0;
+}
+
+.section-header{
+display:flex;
+justify-content:space-between;
+margin-bottom:30px;
+}
+
+.nft-card{
+background:#14000b;
+border:none;
+border-radius:10px;
+overflow:hidden;
+transition:0.3s;
+}
+
+.nft-card:hover{
+transform:translateY(-6px);
+box-shadow:0 10px 30px rgba(0,0,0,0.7);
+}
+
+.price{
+color:#ff2ea6;
+}
+
+/* TEAM */
+
+.team{
+padding:60px 0;
+}
+
+.team-img{
+width:100%;
+border-radius:10px;
+}
+
+/* ALPHA */
+
+.alpha{
+margin-top:60px;
+padding:60px;
+background:linear-gradient(90deg,#ff007a,#7b00ff);
+border-radius:10px;
+}
+
+.alpha-btn{
+background:white;
+color:black;
+border:none;
+padding:10px 24px;
+border-radius:6px;
+}
